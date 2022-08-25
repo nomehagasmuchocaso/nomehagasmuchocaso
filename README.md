@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nomehagasmuchocaso
+- 👀 I’m interested in art, music and code
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on open source projects
